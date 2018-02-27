@@ -10,8 +10,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcutil"
+	"github.com/Messer4/btcd/chaincfg/chainhash"
+	"github.com/Messer4/btcutil"
 	"github.com/davecgh/go-spew/spew"
 )
 
